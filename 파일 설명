@@ -18,3 +18,7 @@ validation.py
 
 model_index_val.py
 - model의 accuracy, precison, recall, f1을 검증하는 코드
+
+
+딥러닝 모델
+- icloud / capstone - 딥러닝 모델
